@@ -1,0 +1,5 @@
+this is a pretty simple program. It calculates the values of a sequence described in the collatz conjecture given a user-generated starting point.
+
+This is one of the first full programs I ever wrote in Python, so bear that in mind when looking at the code!
+
+Nicky Zarick
