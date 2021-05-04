@@ -1,5 +1,8 @@
-this is a pretty simple program. It calculates the values of a sequence described in the collatz conjecture given a user-generated starting point.
+This is a pretty simple program.
+It calculates the values of a sequence described in the collatz conjecture given a user-generated starting point.
+It also provides some information on the calculation such as how many steps the algorithm took to return to 0 and how much time it took.
+
 More info on the Collatz Conjecture: https://en.wikipedia.org/wiki/Collatz_conjecture
-This is one of the first full programs I ever wrote in Python, so bear that in mind when looking at the code, haha!
+This is one of the first full programs I ever wrote in Python.
 
 Nicky Zarick
